@@ -51,17 +51,10 @@
 - 페어코딩을 위해 Visual Studio Code라는 IDE로 풀이 도구를 통일한다.
 - Live Share Extension을 활용한다.
     
-    ![README_IMG_1](https://user-images.githubusercontent.com/44011226/189650785-4127dfa7-f31a-4e99-8dbe-cbd47261bd3b.png)
-    
 - 소통
-    - Discord: 음성대화와 화면공유로 스터디를 진행하기 위해 사용한다
-    - Kakaotalk: 스터디 불참, 개선의견 등의 전파를 위해 사용한다.
     - Notion: 개선의견, 기록, 문서화 등을 위해 사용한다.
 - 문제 풀이
-    - 문제의 풀이 중 Discord로 소통한다.
-    - 문제는 둘이서 의논하며 같이 푼다.
-    - 화면공유를 통해 서로의 화면을 확인하며 문제를 푼다.
-    - 코드는 Live Share Extension을 통해 페어 코딩으로 진행한다.
+    - 문제풀이 후 각자 github에 PR을 날린다.
 - 코드 규칙
     - 문제의 시작은 항상 문제 링크를 주석으로 기록한다
     - 문제 해결을 코드로 시도하기 전에 의견을 모아 풀이 방식을 선정한다
@@ -107,7 +100,6 @@
 
 ## 🍴 PR 규칙
 
-- 스터디 종료 시 PR
 - PR 제목 
 백준 예시 ) → 220707 이름 플랫폼 문제번호 문제이름  (220707 장예찬 백준 2615 오목 풀이)
 - PR 내용 → 풀이 방법에 대한 간단한 설명
@@ -135,14 +127,26 @@ ex) `/dfs/220912_장예찬_boj_DFS스페셜저지.py`   `/dfs/220912_고하람_b
 | stack | 스택을 이용한 풀이 |
 | divide and conquer | 분할 정복을 이용한 풀이 |
 | dynamic programming | 다이나믹 프로그래밍을 이용한 풀이 |
+| memoization | 메모이제이션을 이용한 풀이 |
 | bfs | 그래프의 완전탐색 중 bfs 를 사용한 풀이 |
 | binary search | 이진 탐색을 이용한 풀이 |
+| binary search tree | 이진 탐색 트리를 이용한 풀이 |
+| binary indexed tree | 이진 인덱스 트리를 이용한 풀이 |
+| bit manipulation | 비트 연산을 이용한 풀이 |
 | dfs | 그래프의 완전 탐색 중 dfs를 이용한 풀이 |
+| backtracking | 백트래킹을 이용한 풀이 |
+| brute force | 순열, 조합 등 완전 탐색을 이용한 풀이 |
 | dijkstra | 다익스트라 알고리즘을 이용한 풀이 |
 | mst | 최소신장트리를 이용한 풀이 |
-| prim | 프림 알고리즘을 이용한 풀이 |
+| segment tree | 세그먼트 트리를 이용한 풀이 |
+| sliding window | 슬라이딩 윈도우를 이용한 풀이 |
 | trie | 트라이 자료구조를 이용한 그래프 알고리즘 |
 | union-find | 유니온 파인드 자료구조를 이용한 그래프 알고리즘 |
+| prim | 프림 알고리즘을 이용한 풀이 |
+| bellman-ford | 벨만 포드 알고리즘을 이용한 풀이 |
+| floyd-warshall | 플로이드 와샬 알고리즘을 이용한 풀이 |
+| kruskal | 크루스칼 알고리즘을 이용한 풀이 |
+| topological sort | 위상 정렬을 이용한 풀이 |
 | greedy | 탐욕법을 이용한 풀이 |
 | math | 수학식만을 이용해 푸는 풀이 |
 | simulation | 따로 알고리즘이 필요하지 않고 문제에 주어진 조건을 이용해 푸는 풀이 |
